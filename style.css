@@ -1,0 +1,11 @@
+.co1:hover{
+    color: red;
+}
+
+.co2:visited{
+    background-color: gray;
+}
+
+.co3:default{
+    color: coral;
+}
