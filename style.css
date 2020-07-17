@@ -2,10 +2,19 @@
     color: red;
 }
 
+.co2{
+    background-color: red;
+    color: white;
+}
 .co2:visited{
     background-color: gray;
+    color: white;
 }
 
-.co3:default{
+input:default {
+    box-shadow: 0 0 2px 1px coral;
+  }
+  
+input:default + label {
     color: coral;
-}
+  }
